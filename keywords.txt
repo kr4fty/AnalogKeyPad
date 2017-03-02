@@ -1,0 +1,32 @@
+###################################
+# Syntax Coloring Map For AnalogKeyPad
+###################################
+
+###################################
+# Datatypes (KEYWORD1)
+###################################
+
+AnalogKeyPad	KEYWORD1
+
+###################################
+# Methods and Functions (KEYWORD2)
+###################################
+
+run	KEYWORD2
+wasPressed	KEYWORD2
+wasReleased	KEYWORD2
+getKey	KEYWORD2
+waitForKey	KEYWORD2
+
+###################################
+# Constants (LITERAL1)
+###################################
+
+NO_KEY	LITERAL1
+UP	LITERAL1
+DOWN	LITERAL1
+LEFT	LITERAL1
+RIGHT	LITERAL1
+SELECT	LITERAL1
+
+
