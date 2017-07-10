@@ -7,7 +7,7 @@ void printKey(int8_t keyCode);
 
 void setup()
 {
-  Serial.begin(57600);
+  Serial.begin(9600);
   Serial.println(F("Analog keypad v1.0"));
   Serial.println(F("press a key..."));
 }
